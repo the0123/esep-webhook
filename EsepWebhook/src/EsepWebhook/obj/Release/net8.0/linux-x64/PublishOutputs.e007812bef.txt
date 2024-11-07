@@ -1,0 +1,7 @@
+C:\Users\theod\OneDrive\Desktop\GeneralAcademics\Courses\Fall24\CIS4930\esep-webhook\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.deps.json
+C:\Users\theod\OneDrive\Desktop\GeneralAcademics\Courses\Fall24\CIS4930\esep-webhook\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.runtimeconfig.json
+C:\Users\theod\OneDrive\Desktop\GeneralAcademics\Courses\Fall24\CIS4930\esep-webhook\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.pdb
+C:\Users\theod\OneDrive\Desktop\GeneralAcademics\Courses\Fall24\CIS4930\esep-webhook\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\theod\OneDrive\Desktop\GeneralAcademics\Courses\Fall24\CIS4930\esep-webhook\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\theod\OneDrive\Desktop\GeneralAcademics\Courses\Fall24\CIS4930\esep-webhook\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\theod\OneDrive\Desktop\GeneralAcademics\Courses\Fall24\CIS4930\esep-webhook\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.dll
